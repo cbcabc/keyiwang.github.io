@@ -12,7 +12,7 @@ I'm honored to be advised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinpi
 
 Education
 ======
-2023.09 ~ 2026.01(Expected)<br/>
+·2023.09 ~ 2026.01(Expected)<br/>
 M.Eng, School of Electronic and Information Engineering, Beihang University.<br/>
-2019.09 ~ 2023.06<br/>
+·2019.09 ~ 2023.06<br/>
 B.Eng, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications.
