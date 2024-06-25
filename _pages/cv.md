@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Eng. in Beihang University, Beijing, 2026(expected)
-* B.Eng. in Beijing University of Posts and Telecommunications, 2023
+* M.Eng, Beihang University, Beijing, 2026(expected)
+* B.Eng, Beijing University of Posts and Telecommunications, Beijing, 2023
 
 Work experience
 ======
