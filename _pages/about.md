@@ -21,4 +21,4 @@ B.Eng, School of Information and Communication Engineering, Beijing University o
 Skills
 ======
 ·Python/MATLAB(proficient), C/C++/JavaScript/Verilog HDL(know)
-<font/>
+</font>
