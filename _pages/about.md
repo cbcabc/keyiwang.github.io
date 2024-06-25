@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year graduate student from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).
+I'm a first-year graduate student from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interests include trajectory prediction, radar signal processing and target detection.
+I'm honored to be advised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinping/zh_CN/index/136932/list/index.htm) from School of Electronic and Information Engineering, Beihang University.
+
 
 A data-driven personal website
 ======
