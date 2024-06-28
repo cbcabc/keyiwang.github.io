@@ -18,7 +18,7 @@ Education
   * China National Scholarship(Top 1%), Sept. 2021
   * First Prize of Contemporary Undergraduate Mathematical Contest in Modeling(Beijing), Dec. 2021
   * Finalist of Mathematical/Interdisciplinary Contest in Modeling(Top 3%), May 2022
-  * China National Scholarship(Top 2%), Sept. 2022
+  * China National Scholarship(Top 1%), Sept. 2022
   * Excellent Graduate of BUPT, June 2023
 
 Work experience
