@@ -15,6 +15,7 @@ Education
   * Second-class Scholarship for Freshmen, Sept. 2023
 * B.Eng, Beijing University of Posts and Telecommunications, Beijing, 2023
   * First-class Scholarship(Top 4%), Sept. 2020
+  * Second Prize of Undergraduate Physical Experiment Competition of Beijing, Nov. 2020
   * China National Scholarship(Top 1%), Sept. 2021
   * First Prize of Contemporary Undergraduate Mathematical Contest in Modeling(Beijing), Dec. 2021
   * Finalist of Mathematical/Interdisciplinary Contest in Modeling(Top 3%), May 2022
