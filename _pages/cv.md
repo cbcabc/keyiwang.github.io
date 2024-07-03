@@ -17,7 +17,7 @@ Education
   * First-class Scholarship(Top 4%), Sept. 2020
   * Second Prize of Undergraduate Physical Experiment Competition of Beijing, Nov. 2020
   * China National Scholarship(Top 1%), Sept. 2021
-  * Second(Fisrt) Prize of the Chinese(Beijing) Mathematical Competition, Dec. 2021
+  * Second Prize of the Chinese Mathematical Competition, Dec. 2021
   * First Prize of Contemporary Undergraduate Mathematical Contest in Modeling(Beijing), Dec. 2021
   * Finalist of Mathematical/Interdisciplinary Contest in Modeling(Top 3%), May 2022
   * Second Prize of China International College Students' Innovation Competition(Beijing), Aug. 2022
