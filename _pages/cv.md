@@ -26,7 +26,7 @@ Education
 
 Work experience
 ======
-* Spring 2023: Internship, Optical Network O&M Engineer.
+* Spring 2023: Research intern, Optical Network O&M Engineer.
   * Working with: China Telecom Research Institute, Beijing, PRC
   * Duties includes: Develop new algorithms for cutover of the optical network.
   * Supervisor: Dr.Xin Qin.
