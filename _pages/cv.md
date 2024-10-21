@@ -13,6 +13,7 @@ Education
 ======
 * M.Eng, Beihang University, Beijing, 2026(expected)
   * Second-class Scholarship for Freshmen, Sept. 2023
+  * Excellent Student Leader, Oct. 2024
 * B.Eng, Beijing University of Posts and Telecommunications, Beijing, 2023
   * First-class Scholarship(Top 4%), Sept. 2020
   * Second Prize of Undergraduate Physical Experiment Competition of Beijing, Nov. 2020
