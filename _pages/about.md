@@ -15,7 +15,7 @@ Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with Chi
 -----<br/>
 My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI, Jul. 2024.<br/>
 -----<br/>
-My paper _Modeling method for statistical characteristics of dynamic RCS based on the mixture distribution_ was __accepted__ by the 18th National Conference on Signal and Intelligent Signal Processing and Application, Sept. 2024.
+My paper _Modeling method for statistical characteristics of dynamic RCS based on the mixture distribution_ was __accepted__ by the 18th National Conference on Signal and Intelligent Information Processing and Application, Sept. 2024.
 
 Others
 =====
