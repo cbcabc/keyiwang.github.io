@@ -16,3 +16,7 @@ Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with Chi
 My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI, Jul. 2024.<br/>
 -----<br/>
 My paper _Modeling method for statistical characteristics of dynamic RCS based on the mixture distribution_ was __accepted__ by the 18th National Conference on Signal and Intelligent Signal Processing and Application, Sept. 2024.
+
+Others
+=====
+I'm now serving as the leader of the Academic Department of the Graduates' Union at School of Electronic and Information Engineering, Beihang University. We've held more than 10 academic forums or reports. If you feel like presenting your research experience and results, please contact us.
