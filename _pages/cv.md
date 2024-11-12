@@ -35,6 +35,6 @@ Work experience
   
 Skills
 ======
-* Python/MATLAB(proficient)
-* C/C++/JavaScript/Verilog HDL(know)
-* Mandarin(Mother Tongue)English(CET6-554)/Cantoese(Fundamental Communication)
+* Python/MATLAB(Proficient)
+* C/C++/JavaScript/Verilog HDL(Know)
+* Mandarin(Mother Tongue)/English(Proficient)/Cantoese(Fundamental Communication)
