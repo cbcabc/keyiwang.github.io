@@ -37,3 +37,4 @@ Skills
 ======
 * Python/MATLAB(proficient)
 * C/C++/JavaScript/Verilog HDL(know)
+* English(CET6-554)/Cantoese(Fundamental Communication)
