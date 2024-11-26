@@ -11,7 +11,7 @@ For more details, please turn to CV. If you are interested in me, just drop me a
 
 News
 =====
-Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute has been __submitted__ to _Journal of Lightwave Technology(JCR Q1, Top)_ in Oct. 2024.<br/>
+Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute has been finished and waiting for published, Oct. 2024.<br/>
 -----<br/>
 My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI, Jul. 2024.<br/>
 -----<br/>
