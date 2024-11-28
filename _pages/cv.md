@@ -39,4 +39,4 @@ Skills
 
 Languages
 ======
-Mandarin(Mother Tongue)/English(Proficient)/Cantoese&Japanese(Fundamental Communication)
+* Mandarin(Mother Tongue)/English(Proficient)/Cantoese&Japanese(Fundamental Communication)
