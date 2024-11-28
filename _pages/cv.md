@@ -36,4 +36,7 @@ Skills
 ======
 * Python/MATLAB(Proficient)
 * C/C++/JavaScript/Verilog HDL(Know)
-* Mandarin(Mother Tongue)/English(Proficient)/Cantoese(Fundamental Communication)
+
+Languages
+======
+Mandarin(Mother Tongue)/English(Proficient)/Cantoese&Japanese(Fundamental Communication)
