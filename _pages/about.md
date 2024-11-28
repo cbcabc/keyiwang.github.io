@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm _Keyi Wang/Ho Yee Wong_, a second-year master student supervised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinping/zh_CN/index/136932/list/index.htm) from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interests include radar signal processing and target detection.<br/>
+I'm _Keyi Wang/Ho Yee Wong/おうかきつ, a second-year master student supervised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinping/zh_CN/index/136932/list/index.htm) from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interests include radar signal processing and target detection.<br/>
 For more details, please turn to CV. If you are interested in me, just drop me an email.
 
 News
