@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education & Awards
 ======
 * M.Eng, Beihang University, Beijing, 2026(expected)
   * Second-class Scholarship for Freshmen, Sept. 2023
