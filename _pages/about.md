@@ -19,4 +19,4 @@ My paper _Modeling method for statistical characteristics of dynamic RCS based o
 
 Others
 =====
-I'm now serving as the leader of the _Academic Department_ of the Graduates' Union at School of Electronic and Information Engineering, Beihang University. We've already held more than 10 academic forums or reports since last year. If you feel like to present your research experience and results, please contact us.<font>
+I'm now serving as the leader of the _Academic Department_ of the Graduates' Union at School of Electronic and Information Engineering, Beihang University. We've already held more than 10 academic forums or reports since last year. If you feel like to present your research experience and results, please contact us.</font>
