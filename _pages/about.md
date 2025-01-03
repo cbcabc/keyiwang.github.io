@@ -13,7 +13,7 @@ News
 =====
 Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute has been finished and wait for published, Oct. 2024.<br/>
 -----<br/>
-My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI 2024, which was held in Shanghai, PRC. [PAPER](/files/P1055_Published.pdf)<br/>
+My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI 2024, which was held in Shanghai, PRC. [[PAPER]](/files/P1055_Published.pdf)<br/>
 -----<br/>
 My paper _Modeling method for statistical characteristics of dynamic RCS based on the mixture distribution_ was __accepted__ by the 18th National Conference on Signal and Intelligent Information Processing and Application, which was held in Hefei, Anhui Province, PRC.
 
