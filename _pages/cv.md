@@ -32,11 +32,8 @@ Internships
   * Working with: China Telecom Research Institute, Beijing, PRC
   * Duties include: Developing practical intelligent task scheduling algorithms for cutover in optical networks.
   
-Skills
+Skills & Languages
 ======
 * Python/MATLAB(Proficient)
 * C/C++/JavaScript/Verilog HDL(Know)
-
-Languages
-======
-* 普通话(母语)/English(Proficient)/粵語&日本語(基本溝通/ベーシックコミュニケーション)
+* Mandarin(普通话)/Cantoese(廣東話)/English/Japanese(日本語)
