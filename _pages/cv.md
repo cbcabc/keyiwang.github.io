@@ -36,4 +36,4 @@ Skills & Languages
 ======
 * Python/MATLAB(Proficient)
 * C/C++/JavaScript/Verilog HDL(Know)
-* Mandarin(普通话)/Cantoese(粵語)/English/Japanese(日本語)
+* Besides Mandarin(普通话) and English, I can speak a little Cantoese(粵語) and Japanese(日本語).
