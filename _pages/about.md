@@ -11,7 +11,7 @@ For more details, please turn to CV. I'm now preparing for Ph.D and if you are i
 
 News
 =====
-Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute has been submitted to _Optics Express(JCR Q2, IF=3.2)_, Oct. 2024.<br/>
+Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute has been submitted to _Optics Express(JCR Q2, IF=3.2)_, Jan. 2025.<br/>
 -----<br/>
 My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI 2024, which was held in Shanghai, PRC. [[PAPER]](/keyiwang.github.io/files/P1055_Published.pdf)<br/>
 -----<br/>
