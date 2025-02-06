@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm _Keyi Wang/おうかきつ(In Japanese)/왕커이(In Korean)_, a second-year master student supervised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinping/zh_CN/index/136932/list/index.htm) from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My current research interest lies in radar signal processing and target detection. Previously, I obtained my B.Eng from [School of Information and Communication Engineering](https://sice.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).<br/>
+I'm _Keyi Wang/おうかきつ(In Japanese)/왕커이(In Korean)_, a second-year master student supervised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinping/zh_CN/index/136932/list/index.htm) in [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My current research interest lies in radar signal processing and target detection. Previously, I obtained my B.Eng from [School of Information and Communication Engineering](https://sice.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).<br/>
 For more details, please turn to CV. I'm now preparing for Ph.D in _signal processing/unmanned systems/communication networks/…_. If you are interested in me, just drop me an email.
 
 News
