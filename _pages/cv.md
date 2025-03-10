@@ -26,12 +26,14 @@ Education & Awards
   * China National Scholarship(Top 1%), Sept. 2022
   * Excellent Graduate of BUPT, June 2023
 
+---
 Internships
 ======
 * 2023.03 ~ 2023.08: Research Intern, Optical Network O&M Engineer.
   * Working with: [China Telecom Research Institute](http://www.chinatelecom.com.cn), Beijing, PRC.
   * Duties include: Developing practical intelligent task scheduling algorithms for cutover in optical networks.
-  
+
+---
 Skills & Languages
 ======
 * Python/MATLAB(Proficient)
