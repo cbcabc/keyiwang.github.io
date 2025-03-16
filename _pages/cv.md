@@ -37,3 +37,4 @@ Skills & Languages
 * Python/MATLAB(Proficient)
 * C/C++/JavaScript/Verilog HDL(Know)
 * Mandarin(Mother Tongue)/English(Proficient)/Japanese(Fundamental Communication).
+* 今私は、レベルＮ３の日本語能力試験を準備しています。
