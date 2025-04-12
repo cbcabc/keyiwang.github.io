@@ -35,6 +35,5 @@ Internships
 
 Skills & Languages
 ======
-* Python/MATLAB(Proficient)
-* C/C++/JavaScript/Verilog HDL(Know)
-* Mandarin(Mother Tongue)/English(Proficient)/Japanese(Advanced Beginner).
+* Programming Ability: Python/MATLAB(Proficient), C/C++/JavaScript/(Advanced Beginner)
+* Language Ability: Mandarin(Mother Tongue)/English(Proficient)/Japanese(Advanced Beginner).
