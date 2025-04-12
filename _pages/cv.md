@@ -35,5 +35,5 @@ Internships
 
 Skills & Languages
 ======
-* Programming Ability: Python/MATLAB(Proficient), C/C++/JavaScript/(Advanced Beginner)
+* Programming Ability: Python/MATLAB(Proficient)/C(++)/JavaScript/(Advanced Beginner)
 * Language Ability: Mandarin(Mother Tongue)/English(Proficient)/Japanese(Advanced Beginner).
