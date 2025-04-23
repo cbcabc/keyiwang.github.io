@@ -11,11 +11,11 @@ For more details, please turn to CV or see [CV.pdf](/keyiwang.github.io/files/Ke
 
 News
 =====
-Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute was __accepted__ by _Optics Express(JCR Q2, IF=3.2)_, Apr. 2025.<br/>
+Our paper _Intelligent Task Scheduling for Cutover in Optical Networks_ with China Telecom Research Institute was __ACCEPTED__ by _Optics Express(JCR Q2, IF=3.2)_, Apr. 2025.<br/>
 -----<br/>
-My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __accepted__ by CISP-BMEI 2024, which was held in Shanghai, PRC. [[PAPER]](https://ieeexplore.ieee.org/document/10906088)<br/>
+My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __ACCEPTED__ by CISP-BMEI 2024, which was held in Shanghai, PRC. [[PAPER]](https://ieeexplore.ieee.org/document/10906088)<br/>
 -----<br/>
-My paper _Modeling method for statistical characteristics of dynamic RCS based on the mixture distribution_ was __accepted__ by the 18th National Conference on Signal and Intelligent Information Processing and Application, which was held in Hefei, Anhui Province, PRC. [[PAPER]](https://kns.cnki.net/kcms2/article/abstract?v=XtSw_LC1RHlR9NoFjeZlkTQSRBQXSNmEeQT0OJVZ5lgX-VBU1Fx_DVH9SK0Y8b3YFJnT45RJfN5wdTmRh9aJ1urjfLM3rkdi7gU657G0NBjwTgR5evrY9zTcUHQlka4dg73_J2wWQUEKz1LXEVGVt2XqEhrzYoyW6QjN7KZvM02tPmIar158BWt0HTccQpHdgu2CbZzVKPI=&uniplatform=NZKPT&language=CHS)
+My paper _Modeling method for statistical characteristics of dynamic RCS based on the mixture distribution_ was __ACCEPTED__ by the 18th National Conference on Signal and Intelligent Information Processing and Application, which was held in Hefei, Anhui Province, PRC. [[PAPER]](https://kns.cnki.net/kcms2/article/abstract?v=XtSw_LC1RHlR9NoFjeZlkTQSRBQXSNmEeQT0OJVZ5lgX-VBU1Fx_DVH9SK0Y8b3YFJnT45RJfN5wdTmRh9aJ1urjfLM3rkdi7gU657G0NBjwTgR5evrY9zTcUHQlka4dg73_J2wWQUEKz1LXEVGVt2XqEhrzYoyW6QjN7KZvM02tPmIar158BWt0HTccQpHdgu2CbZzVKPI=&uniplatform=NZKPT&language=CHS)
 
 ---
 Last Modified: March, 2025.
