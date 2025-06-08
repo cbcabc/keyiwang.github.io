@@ -34,8 +34,6 @@ Internships
   * Working with: Institute of Network Technology, [China Telecom Research Institute(CTRI)](http://www.chinatelecom.com.cn), Beijing, PRC.
   * Duties include: Developing practical intelligent task scheduling algorithms for cutover in optical networks.
   * Achievements: One Paper based on our work was __ACCEPTED__ by _Optics Express(JCR Q2, IF=3.2)_.
-* 2025.06 ~ 2025.08: Research Intern, Architecture Design Engineer.
-  * Working with: Department of Demanding and Engineering, [COMAC Beijing Aircraft Technology Research Institute](http://bj.comac.cc/), Beijing, PRC.
 
 Skills & Languages
 ======
