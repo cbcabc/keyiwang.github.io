@@ -32,9 +32,8 @@ Internships
 ======
 * 2023.03 ~ 2023.08: Research Intern, Optical Network O&M Engineer.
   * Working with: Institute of Network Technology, [China Telecom Research Institute(CTRI)](http://www.chinatelecom.com.cn), Beijing, PRC.
-  * Duties include: Developing practical intelligent task scheduling algorithms for cutover in optical networks.
-  * Achievements: One Paper based on our work was __ACCEPTED__ by _Optics Express(JCR Q2, IF=3.2)_.
-* 
+* 2025.07 ~ 2025.08: Intern(Java Development).
+  * Working with: Department of Information Technology(Head Office), [China Minsheng Banking Corp., Ltd.(CMBC)](https://www.cmbc.com.cn/)., Beijing, PRC.
 
 Skills & Languages
 ======
