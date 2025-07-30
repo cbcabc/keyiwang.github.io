@@ -34,8 +34,9 @@ Internships
   * Working with: Institute of Network Technology, [China Telecom Research Institute(CTRI)](http://www.chinatelecom.com.cn), Beijing, PRC.
   * Duties include: Developing practical intelligent task scheduling algorithms for cutover in optical networks.
   * Achievements: One Paper based on our work was __ACCEPTED__ by _Optics Express(JCR Q2, IF=3.2)_.
+* 
 
 Skills & Languages
 ======
-* Programming Ability: Python/MATLAB(Proficient)/C&C++/JavaScript/(Advanced Beginner)
+* Programming Ability: Python/MATLAB(Proficient)/Java(including JDBC/MyBatis/Spring...)/C&C++/JavaScript/(Advanced Beginner)
 * Language Ability: Mandarin(Mother Tongue)/English(Proficient)/Japanese(Advanced Beginner).
