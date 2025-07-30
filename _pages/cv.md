@@ -30,9 +30,9 @@ Education & Awards
 
 Internships
 ======
-* 2023.03 ~ 2023.08: Intern(Algorithm Research based on Optical Networks).
+* 2023.03 ~ 2023.08: Intern(Algorithm).
   * Working with: Institute of Network Technology, [China Telecom Research Institute(CTRI)](http://www.chinatelecom.com.cn), Beijing, PRC.
-* 2025.07 ~ 2025.08: Intern(Java Development).
+* 2025.07 ~ 2025.08: Intern(Development).
   * Working with: Department of Information Technology(Head Office), [China Minsheng Banking Corp., Ltd.(CMBC)](https://www.cmbc.com.cn/)., Beijing, PRC.
 
 Skills & Languages
