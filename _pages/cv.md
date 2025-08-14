@@ -31,11 +31,11 @@ Education & Awards
 Internships
 ======
 * 2023.03 ~ 2023.08: Intern(Algorithm).
-  * Working with: Institute of Network Technology, [China Telecom Research Institute(CTRI)](http://www.chinatelecom.com.cn), Beijing, PRC.
+  * Working with: Institute of Network Technology, [China Telecom Research Institute(CTRI)](http://www.chinatelecom.com.cn)(Fortune Global 500), Beijing, PRC.
 * 2025.06 ~ 2025.07: Intern(Algorithm).
   * Working with: 3rd Department of AE RSP, [Beijing Jingwei Hirain Technologies Co., Ltd.](https://www.hirain.com/), Beijing, PRC.
 * 2025.07 ~ 2025.08: Intern(Development).
-  * Working with: Department of Information Technology(Head Office), [China Minsheng Banking Corp., Ltd.(CMBC)](https://www.cmbc.com.cn/)., Beijing, PRC.
+  * Working with: Department of Information Technology(Head Office), [China Minsheng Banking Corp., Ltd.(CMBC)](https://www.cmbc.com.cn/)(Fortune Global 500)., Beijing, PRC.
 
 Skills & Languages
 ======
