@@ -37,7 +37,7 @@ Internships
 * 2025.07 ~ 2025.08: Intern(Development).
   * Working with: Department of Information Technology(Head Office), [China Minsheng Banking Corp., Ltd.(CMBC)](https://www.cmbc.com.cn/)(Fortune Global 500)., Beijing, PRC.
 
-Skills & Languages
+Abilities
 ======
 * Programming Ability: MATLAB/Python(Proficient)/Java/C&C++(Competent).
 * Language Ability: Mandarin(Mother Tongue)/English(Proficient)/Japanese(Competent).
