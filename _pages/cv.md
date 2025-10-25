@@ -15,8 +15,8 @@ Education & Awards
   * Second-class Scholarship for Freshmen, Sept. 2023
   * Excellent Student Cadre, Oct. 2024
   * First-class Scholarship for Graduate Students(Top 20%), Nov. 2024
-  * Excellent Student Cadre of the Postgraduate Union of School of EE, Apr. 2025.
   * Excellent Postgraduate, May. 2025
+  * Excellent Student Cadre, Oct. 2025.
 * B.Eng, Beijing University of Posts and Telecommunications, Beijing, 2023
   * First-class Scholarship(Top 4%) for Undergraduate Students, Sept. 2020
   * Second Prize of Undergraduate Physical Experiment Competition of Beijing, Nov. 2020
