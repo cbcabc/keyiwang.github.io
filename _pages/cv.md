@@ -40,5 +40,5 @@ Internships
 
 Abilities
 ======
-* Programming Ability: MATLAB/Python(Proficient)/Java/C&C++(Competent).
-* Language Ability: Mandarin(Mother Tongue)/English(Proficient)/Japanese(Competent).
+* Programming Ability: __MATLAB/Python__(Proficient)/__Java/C&C++__(Competent).
+* Language Ability: __Mandarin__(Mother Tongue)/__English__(Proficient)/__Japanese__(Competent).
