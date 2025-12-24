@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Keyi Wang's Personal Homepage"
+title                    : "Ryan's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Keyi Wang"
+name                     : &name "Ryan Wang Keyi"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -18,7 +18,7 @@ name                     : &name "Keyi Wang"
 author:
   # Biographic information
   avatar           : "证件照_海马体.png"
-  name             : "Keyi Wang"
+  name             : "Ryan Wang Keyi"
   bio              : "M.Eng in Beihang University"
   location         : "Beijing, PRC"
   employer         : "Beihang University"
