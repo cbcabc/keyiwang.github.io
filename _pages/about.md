@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm ___Ryan Wang Keyi___(In English)/___ワン・コーイー___(In Japanese)/___왕커이___(In Korean), a third-year master student supervised by [Prof.Jinping Sun](https://shi.buaa.edu.cn/sunjinping/zh_CN/index/136932/list/index.htm) in [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). Previously, I obtained my B.Eng from [School of Information and Communication Engineering](https://sice.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).<br/>
+I'm ___Ryan Wang Keyi___(In English)/___ワン・コーイー___(In Japanese)/___왕커이___(In Korean), and I obtained my M.Eng from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/) in 2026.01. Previously, I obtained my B.Eng from [School of Information and Communication Engineering](https://sice.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2023.06.<br/>
 For more details, please turn to CV or see [CV.pdf](/keyiwang.github.io/files/KeyiWang_Resume.pdf). I will graduate from _Beihang University_ in _2026.01_ and obtain my _M.Eng_. Meanwhile, I'm going to be a _MT(Management Trainee)_ in the direction of _IT(Information Technology)_ in head office of [Bank of China(BOC)](https://www.boc.cn/).
 
 News
