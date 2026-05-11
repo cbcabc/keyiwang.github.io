@@ -11,7 +11,7 @@ For more details, please turn to CV or see [CV.pdf](/keyiwang.github.io/files/Ke
 
 News
 =====
-I joined in the head office of [Bank of China(BOC)](https://www.boc.cn) in 2026.04, working as a management trainee until 2027.08. Now I'm working in the Department of Risk Management.<br/>.
+I joined in the head office of [Bank of China(BOC)](https://www.boc.cn) in 2026.04, working as a management trainee until 2027.08. Now I'm working in the Department of Risk Management.<br/>
 -----<br/>
 One paper based on my research in China Telecom Research Institute(CTRI) _Intelligent Task Scheduling for Cutover in Optical Networks_ was __ACCEPTED__ by _Optics Express(JCR Q2, IF=3.2)_. [[PAPER]](https://doi.org/10.1364/OE.558603)<br/>
 -----<br/>
