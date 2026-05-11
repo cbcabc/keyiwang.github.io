@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 I'm ___Ryan Wang Keyi___(In English)/___ワン・コーイー___(In Japanese)/___왕커이___(In Korean), and I obtained my __M.Eng__ from [School of Electronic and Information Engineering](https://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/) in 2026.01. Previously, I obtained my __B.Eng__ from [School of Information and Communication Engineering](https://sice.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/) in 2023.06.<br/>
-For more details, please turn to CV or see [CV.pdf](/keyiwang.github.io/files/KeyiWang_Resume.pdf). I'm going to be a _MT(Management Trainee)_ in the head office of [Bank of China(BOC)](https://www.boc.cn/).
+For more details, please turn to CV or see [CV.pdf](/keyiwang.github.io/files/KeyiWang_Resume.pdf). 
 
 News
 =====
+I joined in the head office of [Bank of China(BOC)](https://www.boc.cn) in 2026.04, working as a management trainee until 2027.08. Now I'm working in the Department of Risk Management.
+-----<br/>
 One paper based on my research in China Telecom Research Institute(CTRI) _Intelligent Task Scheduling for Cutover in Optical Networks_ was __ACCEPTED__ by _Optics Express(JCR Q2, IF=3.2)_. [[PAPER]](https://doi.org/10.1364/OE.558603)<br/>
 -----<br/>
 My paper _A Robust Range Spread Target Detector for Wideband Radar Using Envelope Model Prior_ was __ACCEPTED__ by CISP-BMEI 2024, which was held in Shanghai, PRC. [[PAPER]](https://ieeexplore.ieee.org/document/10906088)<br/>
